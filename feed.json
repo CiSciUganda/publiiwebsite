@@ -14,14 +14,14 @@
             "url": "https://cisciuganda.github.io/publiiwebsite/contact-us.html",
             "title": "Contact Us",
             "summary": "Reason for contact: If you have any questions with regard to our&hellip;",
-            "content_html": "<div class=\"modal-body\">\n<p>Reason for contact:</p>\n<p>If you have any questions with regard to our projects, the methodology applied or access to the data, do not hesitate to contact us:</p>\n<form action=\"https://formspree.io/cisciuganda@gmail.com\" method=\"POST\">\n<div class=\"input-group\"><span class=\"input-group-addon\">Name </span> <input class=\"form-control\" name=\"form-name-input\" required=\"\" type=\"text\" placeholder=\"Your name\"></div>\n<input name=\"email\" type=\"email\" placeholder=\"Your email\"> <input name=\"institute\" type=\"Institute\" placeholder=\"Your Institute\"> <textarea name=\"message\" placeholder=\"Test Message\"></textarea> <input name=\"purpose\" type=\"checkbox\" value=\"Question\"> Question<br> <input name=\"purpose\" type=\"checkbox\" value=\"Data\"> Request for data<br> <input name=\"purpose\" type=\"checkbox\" value=\"Collaboration\"> Request for collaboration<br> <input name=\"purpose\" type=\"checkbox\" value=\"Other\"> Other<br> <button type=\"submit\">Send contact request</button></form></div>",
+            "content_html": "<div class=\"modal-body\">\n<p>Reason for contact:</p>\n<p>If you have any questions with regard to our projects, the methodology applied or access to the data, do not hesitate to contact us:</p>\n<form action=\"https://formspree.io/cisciuganda@gmail.com\" method=\"POST\">\n<div class=\"input-group\"><span class=\"input-group-addon\">Name </span> <br><input class=\"form-control\" name=\"form-name-input\" required=\"\" type=\"text\" placeholder=\"Your name\"></div>\n<div class=\"input-group\"><span class=\"input-group-addon\">Email </span> <br><input class=\"form-control\" name=\"form-name-input\" required=\"\" type=\"text\" placeholder=\"Your email address\"></div>\n<div class=\"input-group\"><span class=\"input-group-addon\">Institute </span> <br><input class=\"form-control\" name=\"form-name-input\" required=\"\" type=\"text\" placeholder=\"Your Institute\"></div>\n<div class=\"input-group\"><span class=\"input-group-addon\">Type your Message/Question here: </span> <br> <textarea name=\"message\" placeholder=\"Message/question\"></textarea></div>\n<input name=\"purpose\" type=\"checkbox\" value=\"Question\"> Question<br> <input name=\"purpose\" type=\"checkbox\" value=\"Data\"> Request for data<br> <input name=\"purpose\" type=\"checkbox\" value=\"Collaboration\"> Request for collaboration<br> <input name=\"purpose\" type=\"checkbox\" value=\"Other\"> Other<br> <button type=\"submit\">Send contact request</button></form></div>",
             "author": {
                 "name": "CitizenScienceUganda"
             },
             "tags": [
             ],
             "date_published": "2019-06-11T14:02:23+02:00",
-            "date_modified": "2019-06-11T14:42:48+02:00"
+            "date_modified": "2019-06-12T11:41:07+02:00"
         },
         {
             "id": "https://cisciuganda.github.io/publiiwebsite/swamp-project-description.html",
