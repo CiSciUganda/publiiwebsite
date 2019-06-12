@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Citizen Science Uganda</title>
-    <link href="https://cisciuganda.github.io/publiiwebsite/feed.xml" rel="self" />
-    <link href="https://cisciuganda.github.io/publiiwebsite" />
-    <updated>2019-06-12T17:20:25+02:00</updated>
+    <link href="https://www.citizenscienceuganda.info/feed.xml" rel="self" />
+    <link href="https://www.citizenscienceuganda.info" />
+    <updated>2019-06-12T17:24:50+02:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
-    <id>https://cisciuganda.github.io/publiiwebsite</id>
+    <id>https://www.citizenscienceuganda.info</id>
 
     <entry>
         <title>PROJECTS</title>
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="https://cisciuganda.github.io/publiiwebsite/projects.html"/>
-        <id>https://cisciuganda.github.io/publiiwebsite/projects.html</id>
+        <link href="https://www.citizenscienceuganda.info/projects.html"/>
+        <id>https://www.citizenscienceuganda.info/projects.html</id>
 
         <updated>2019-06-12T16:41:00+02:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="https://cisciuganda.github.io/publiiwebsite/citizen-scientists.html"/>
-        <id>https://cisciuganda.github.io/publiiwebsite/citizen-scientists.html</id>
+        <link href="https://www.citizenscienceuganda.info/citizen-scientists.html"/>
+        <id>https://www.citizenscienceuganda.info/citizen-scientists.html</id>
 
         <updated>2019-06-12T16:11:36+02:00</updated>
             <summary></summary>
@@ -46,8 +46,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="https://cisciuganda.github.io/publiiwebsite/consortium.html"/>
-        <id>https://cisciuganda.github.io/publiiwebsite/consortium.html</id>
+        <link href="https://www.citizenscienceuganda.info/consortium.html"/>
+        <id>https://www.citizenscienceuganda.info/consortium.html</id>
 
         <updated>2019-06-12T16:12:34+02:00</updated>
             <summary>
@@ -66,8 +66,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="https://cisciuganda.github.io/publiiwebsite/supported-by.html"/>
-        <id>https://cisciuganda.github.io/publiiwebsite/supported-by.html</id>
+        <link href="https://www.citizenscienceuganda.info/supported-by.html"/>
+        <id>https://www.citizenscienceuganda.info/supported-by.html</id>
 
         <updated>2019-06-12T16:03:04+02:00</updated>
             <summary>
@@ -78,8 +78,8 @@
         <content type="html">
             <![CDATA[
                 <p>These projects are supported by Global Minds (KU Leuven), <a href="https://www.vliruos.be/en/home/1" target="_blank" rel="noopener noreferrer">VLIR-UOS</a> and the <a href="https://diplomatie.belgium.be/en/policy/development_cooperation" target="_blank" rel="noopener noreferrer">Belgian Development Coorperation</a>.</p>
-<p><img class="post__image" src="https://cisciuganda.github.io/publiiwebsite/media/posts/9/vliruos.svg" alt="" width="383" height="99"></p>
-<p><img class="post__image" src="https://cisciuganda.github.io/publiiwebsite/media/posts/9/dgd.png" alt="" width="374" height="86"></p>
+<p><img class="post__image" src="https://www.citizenscienceuganda.info/media/posts/9/vliruos.svg" alt="" width="383" height="99"></p>
+<p><img class="post__image" src="https://www.citizenscienceuganda.info/media/posts/9/dgd.png" alt="" width="374" height="86"></p>
             ]]>
         </content>
     </entry>
@@ -88,8 +88,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="https://cisciuganda.github.io/publiiwebsite/partners.html"/>
-        <id>https://cisciuganda.github.io/publiiwebsite/partners.html</id>
+        <link href="https://www.citizenscienceuganda.info/partners.html"/>
+        <id>https://www.citizenscienceuganda.info/partners.html</id>
 
         <updated>2019-06-12T15:56:05+02:00</updated>
             <summary>
@@ -99,17 +99,17 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image" ><img src="https://cisciuganda.github.io/publiiwebsite/media/posts/8/must-site-logo11-1.png" alt="Mbarara University of Science &amp; Technology" width="462" height="157">
+                <figure class="post__image post__image" ><img src="https://www.citizenscienceuganda.info/media/posts/8/must-site-logo11-1.png" alt="Mbarara University of Science &amp; Technology" width="462" height="157">
 <figcaption >Mbarara University of Science and technology, Mbara Uganda</figcaption>
 </figure>
-<figure class="post__image post__image" ><img src="https://cisciuganda.github.io/publiiwebsite/media/posts/8/MMU-logo.png" alt="" width="1074" height="141">
+<figure class="post__image post__image" ><img src="https://www.citizenscienceuganda.info/media/posts/8/MMU-logo.png" alt="" width="1074" height="141">
 <figcaption >Mountains of the Moon University, Fort Portal, Uganda</figcaption>
 </figure>
-<figure class="post__image post__image" ><img src="https://cisciuganda.github.io/publiiwebsite/media/posts/8/africamuseum.svg" alt="" width="271" height="66">
+<figure class="post__image post__image" ><img src="https://www.citizenscienceuganda.info/media/posts/8/africamuseum.svg" alt="" width="271" height="66">
 <figcaption >Royal Museum for Central Africa, Tervuren, Belgium</figcaption>
 </figure>
-<p><img class="post__image" src="https://cisciuganda.github.io/publiiwebsite/media/posts/8/VUB.png" alt="" width="429" height="151"></p>
-<p><img class="post__image" src="https://cisciuganda.github.io/publiiwebsite/media/posts/8/KUL2.png" alt="" width="449" height="160"></p>
+<p><img class="post__image" src="https://www.citizenscienceuganda.info/media/posts/8/VUB.png" alt="" width="429" height="151"></p>
+<p><img class="post__image" src="https://www.citizenscienceuganda.info/media/posts/8/KUL2.png" alt="" width="449" height="160"></p>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -122,8 +122,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="https://cisciuganda.github.io/publiiwebsite/contact-us.html"/>
-        <id>https://cisciuganda.github.io/publiiwebsite/contact-us.html</id>
+        <link href="https://www.citizenscienceuganda.info/contact-us.html"/>
+        <id>https://www.citizenscienceuganda.info/contact-us.html</id>
 
         <updated>2019-06-12T11:52:11+02:00</updated>
             <summary>
@@ -157,8 +157,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="https://cisciuganda.github.io/publiiwebsite/swamp-project-description.html"/>
-        <id>https://cisciuganda.github.io/publiiwebsite/swamp-project-description.html</id>
+        <link href="https://www.citizenscienceuganda.info/swamp-project-description.html"/>
+        <id>https://www.citizenscienceuganda.info/swamp-project-description.html</id>
 
         <updated>2019-06-11T13:05:11+02:00</updated>
             <summary>
@@ -177,8 +177,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="https://cisciuganda.github.io/publiiwebsite/d-sire-project-description.html"/>
-        <id>https://cisciuganda.github.io/publiiwebsite/d-sire-project-description.html</id>
+        <link href="https://www.citizenscienceuganda.info/d-sire-project-description.html"/>
+        <id>https://www.citizenscienceuganda.info/d-sire-project-description.html</id>
 
         <updated>2019-06-11T13:04:54+02:00</updated>
             <summary>
@@ -197,8 +197,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="https://cisciuganda.github.io/publiiwebsite/harissa-project.html"/>
-        <id>https://cisciuganda.github.io/publiiwebsite/harissa-project.html</id>
+        <link href="https://www.citizenscienceuganda.info/harissa-project.html"/>
+        <id>https://www.citizenscienceuganda.info/harissa-project.html</id>
 
         <updated>2019-06-11T13:04:35+02:00</updated>
             <summary>
@@ -217,8 +217,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="https://cisciuganda.github.io/publiiwebsite/atrap-project-description.html"/>
-        <id>https://cisciuganda.github.io/publiiwebsite/atrap-project-description.html</id>
+        <link href="https://www.citizenscienceuganda.info/atrap-project-description.html"/>
+        <id>https://www.citizenscienceuganda.info/atrap-project-description.html</id>
 
         <updated>2019-06-11T13:03:52+02:00</updated>
             <summary>
