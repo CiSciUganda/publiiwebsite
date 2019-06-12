@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Citizen Science Uganda",
     "description": "",
-    "home_page_url": "http://github.com/CiSciUganda/publiiwebsite.git",
-    "feed_url": "http://github.com/CiSciUganda/publiiwebsite.git/feed.json",
+    "home_page_url": "https://cisciuganda.github.io/publiiwebsite",
+    "feed_url": "https://cisciuganda.github.io/publiiwebsite/feed.json",
     "user_comment": "",
     "author": {
         "name": "CitizenScienceUganda"
     },
     "items": [
         {
-            "id": "http://github.com/CiSciUganda/publiiwebsite.git/contact-us.html",
-            "url": "http://github.com/CiSciUganda/publiiwebsite.git/contact-us.html",
+            "id": "https://cisciuganda.github.io/publiiwebsite/contact-us.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/contact-us.html",
             "title": "Contact Us",
             "summary": "Reason for contact: If you have any questions with regard to our&hellip;",
             "content_html": "<div class=\"modal-body\">\n<p>Reason for contact:</p>\n<p>If you have any questions with regard to our projects, the methodology applied or access to the data, do not hesitate to contact us:</p>\n<form action=\"https://formspree.io/cisciuganda@gmail.com\" method=\"POST\">\n<div class=\"input-group\"><span class=\"input-group-addon\">Name </span> <input class=\"form-control\" name=\"form-name-input\" required=\"\" type=\"text\" placeholder=\"Your name\"></div>\n<input name=\"email\" type=\"email\" placeholder=\"Your email\"> <input name=\"institute\" type=\"Institute\" placeholder=\"Your Institute\"> <textarea name=\"message\" placeholder=\"Test Message\"></textarea> <input name=\"purpose\" type=\"checkbox\" value=\"Question\"> Question<br> <input name=\"purpose\" type=\"checkbox\" value=\"Data\"> Request for data<br> <input name=\"purpose\" type=\"checkbox\" value=\"Collaboration\"> Request for collaboration<br> <input name=\"purpose\" type=\"checkbox\" value=\"Other\"> Other<br> <button type=\"submit\">Send contact request</button></form></div>",
@@ -24,8 +24,8 @@
             "date_modified": "2019-06-11T14:42:48+02:00"
         },
         {
-            "id": "http://github.com/CiSciUganda/publiiwebsite.git/swamp-project-description.html",
-            "url": "http://github.com/CiSciUganda/publiiwebsite.git/swamp-project-description.html",
+            "id": "https://cisciuganda.github.io/publiiwebsite/swamp-project-description.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/swamp-project-description.html",
             "title": "SWAMP PROJECT DESCRIPTION",
             "summary": "THIS IS THE SWAMP PROJECT DESCRIPTION PAGE",
             "content_html": "THIS IS THE SWAMP PROJECT DESCRIPTION PAGE",
@@ -38,8 +38,8 @@
             "date_modified": "2019-06-11T13:05:11+02:00"
         },
         {
-            "id": "http://github.com/CiSciUganda/publiiwebsite.git/d-sire-project-description.html",
-            "url": "http://github.com/CiSciUganda/publiiwebsite.git/d-sire-project-description.html",
+            "id": "https://cisciuganda.github.io/publiiwebsite/d-sire-project-description.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/d-sire-project-description.html",
             "title": "D-SIRE PROJECT DESCRIPTION",
             "summary": "tHIS IS THE DSIRE PROJECT DESCRIPTION",
             "content_html": "tHIS IS THE DSIRE PROJECT DESCRIPTION",
@@ -52,8 +52,8 @@
             "date_modified": "2019-06-11T13:04:54+02:00"
         },
         {
-            "id": "http://github.com/CiSciUganda/publiiwebsite.git/harissa-project.html",
-            "url": "http://github.com/CiSciUganda/publiiwebsite.git/harissa-project.html",
+            "id": "https://cisciuganda.github.io/publiiwebsite/harissa-project.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/harissa-project.html",
             "title": "HARISSA PROJECT DESCRIPTION",
             "summary": "THIS IS A DESCRIPTION OF THE HARISSA PROJECT",
             "content_html": "THIS IS A DESCRIPTION OF THE HARISSA PROJECT",
@@ -66,8 +66,8 @@
             "date_modified": "2019-06-11T13:04:35+02:00"
         },
         {
-            "id": "http://github.com/CiSciUganda/publiiwebsite.git/atrap-project-description.html",
-            "url": "http://github.com/CiSciUganda/publiiwebsite.git/atrap-project-description.html",
+            "id": "https://cisciuganda.github.io/publiiwebsite/atrap-project-description.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/atrap-project-description.html",
             "title": "ATRAP PROJECT DESCRIPTION",
             "summary": "THIS IS THE DESCRIPTION OF ATRAP",
             "content_html": "THIS IS THE DESCRIPTION OF ATRAP",
@@ -80,8 +80,8 @@
             "date_modified": "2019-06-11T13:03:52+02:00"
         },
         {
-            "id": "http://github.com/CiSciUganda/publiiwebsite.git/data-illustration.html",
-            "url": "http://github.com/CiSciUganda/publiiwebsite.git/data-illustration.html",
+            "id": "https://cisciuganda.github.io/publiiwebsite/data-illustration.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/data-illustration.html",
             "title": "Data: illustration",
             "content_html": "<iframe width=\"1200\" height=\"1000\" align=\"right\" src=\"https://citizenscienceuganda.shinyapps.io/shinyapp/\"></iframe>",
             "author": {
@@ -93,8 +93,8 @@
             "date_modified": "2019-06-11T11:56:27+02:00"
         },
         {
-            "id": "http://github.com/CiSciUganda/publiiwebsite.git/how-it-began.html",
-            "url": "http://github.com/CiSciUganda/publiiwebsite.git/how-it-began.html",
+            "id": "https://cisciuganda.github.io/publiiwebsite/how-it-began.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/how-it-began.html",
             "title": "How it began...",
             "summary": "In February 2017 we started with a group of 21 citizens of&hellip;",
             "content_html": "<p>In February 2017 we started with a group of 21 citizens of the Rwenzori Mountains, the geo-observers. After a one-day course and an excursion, the geo-observers were trained to use a smartphone to collect information on hailstorms, landslides, floods, lightning, windstorms, earthquakes, droughts and pests- and diseases using the KoboCollect application (<a href=\"https://kobotoolbox.org\">https://kobotoolbox.org)</a>. This citizen science network was one of the key objectives of a VLIR-SI project coordinated by the VUB and Mountains of the Moon University. A broad methodological overview and proof of concept can be found here: <a href=\"https://www.sciencedirect.com/science/article/pii/S0048969719311659\">https://www.sciencedirect.com/science/article/pii/S0048969719311659. </a></p>\n<p>This pilot project was in many ways an eye-opener, and based upon our experiences, other citizen science network are currently under development in West-Uganda. D-SIRE is a continuation of the VLIR-SI project, funded by VLIR-UOS for the period of 2019-2022. HARISSA also focuses on hazard and risk and will implement a citizen science network in SW-Uganda. Finally, ATRAP focuses on schistosomiasis risk and a citizen science network will be started to monitor snail populations acting as a vector for the disease. ATRAP and HARISSA are funded by DGD, Belgium (2019-2023).</p>\n<p class=\"align-center\">&lt;&lt;      If you want to go far, go together  &gt;&gt;</p>",

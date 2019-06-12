@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://github.com/CiSciUganda/publiiwebsite.git/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://cisciuganda.github.io/publiiwebsite/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://github.com/CiSciUganda/publiiwebsite.git/</loc>
+<loc>https://cisciuganda.github.io/publiiwebsite/</loc>
 </url>
 <url>
-<loc>http://github.com/CiSciUganda/publiiwebsite.git/atrap-project-description.html</loc>
+<loc>https://cisciuganda.github.io/publiiwebsite/atrap-project-description.html</loc>
 <lastmod>2019-06-11T13:03:52+02:00</lastmod>
 </url>
 <url>
-<loc>http://github.com/CiSciUganda/publiiwebsite.git/contact-us.html</loc>
+<loc>https://cisciuganda.github.io/publiiwebsite/contact-us.html</loc>
 <lastmod>2019-06-11T14:42:48+02:00</lastmod>
 </url>
 <url>
-<loc>http://github.com/CiSciUganda/publiiwebsite.git/d-sire-project-description.html</loc>
+<loc>https://cisciuganda.github.io/publiiwebsite/d-sire-project-description.html</loc>
 <lastmod>2019-06-11T13:04:54+02:00</lastmod>
 </url>
 <url>
-<loc>http://github.com/CiSciUganda/publiiwebsite.git/data-illustration.html</loc>
+<loc>https://cisciuganda.github.io/publiiwebsite/data-illustration.html</loc>
 <lastmod>2019-06-11T11:56:27+02:00</lastmod>
 </url>
 <url>
-<loc>http://github.com/CiSciUganda/publiiwebsite.git/harissa-project.html</loc>
+<loc>https://cisciuganda.github.io/publiiwebsite/harissa-project.html</loc>
 <lastmod>2019-06-11T13:04:35+02:00</lastmod>
 </url>
 <url>
-<loc>http://github.com/CiSciUganda/publiiwebsite.git/how-it-began.html</loc>
+<loc>https://cisciuganda.github.io/publiiwebsite/how-it-began.html</loc>
 <lastmod>2019-06-11T11:47:11+02:00</lastmod>
 </url>
 <url>
-<loc>http://github.com/CiSciUganda/publiiwebsite.git/swamp-project-description.html</loc>
+<loc>https://cisciuganda.github.io/publiiwebsite/swamp-project-description.html</loc>
 <lastmod>2019-06-11T13:05:11+02:00</lastmod>
 </url>
 </urlset>

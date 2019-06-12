@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Citizen Science Uganda</title>
-    <link href="http://github.com/CiSciUganda/publiiwebsite.git/feed.xml" rel="self" />
-    <link href="http://github.com/CiSciUganda/publiiwebsite.git" />
-    <updated>2019-06-12T11:07:07+02:00</updated>
+    <link href="https://cisciuganda.github.io/publiiwebsite/feed.xml" rel="self" />
+    <link href="https://cisciuganda.github.io/publiiwebsite" />
+    <updated>2019-06-12T11:20:26+02:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
-    <id>http://github.com/CiSciUganda/publiiwebsite.git</id>
+    <id>https://cisciuganda.github.io/publiiwebsite</id>
 
     <entry>
         <title>Contact Us</title>
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="http://github.com/CiSciUganda/publiiwebsite.git/contact-us.html"/>
-        <id>http://github.com/CiSciUganda/publiiwebsite.git/contact-us.html</id>
+        <link href="https://cisciuganda.github.io/publiiwebsite/contact-us.html"/>
+        <id>https://cisciuganda.github.io/publiiwebsite/contact-us.html</id>
 
         <updated>2019-06-11T14:42:48+02:00</updated>
             <summary>
@@ -39,8 +39,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="http://github.com/CiSciUganda/publiiwebsite.git/swamp-project-description.html"/>
-        <id>http://github.com/CiSciUganda/publiiwebsite.git/swamp-project-description.html</id>
+        <link href="https://cisciuganda.github.io/publiiwebsite/swamp-project-description.html"/>
+        <id>https://cisciuganda.github.io/publiiwebsite/swamp-project-description.html</id>
 
         <updated>2019-06-11T13:05:11+02:00</updated>
             <summary>
@@ -59,8 +59,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="http://github.com/CiSciUganda/publiiwebsite.git/d-sire-project-description.html"/>
-        <id>http://github.com/CiSciUganda/publiiwebsite.git/d-sire-project-description.html</id>
+        <link href="https://cisciuganda.github.io/publiiwebsite/d-sire-project-description.html"/>
+        <id>https://cisciuganda.github.io/publiiwebsite/d-sire-project-description.html</id>
 
         <updated>2019-06-11T13:04:54+02:00</updated>
             <summary>
@@ -79,8 +79,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="http://github.com/CiSciUganda/publiiwebsite.git/harissa-project.html"/>
-        <id>http://github.com/CiSciUganda/publiiwebsite.git/harissa-project.html</id>
+        <link href="https://cisciuganda.github.io/publiiwebsite/harissa-project.html"/>
+        <id>https://cisciuganda.github.io/publiiwebsite/harissa-project.html</id>
 
         <updated>2019-06-11T13:04:35+02:00</updated>
             <summary>
@@ -99,8 +99,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="http://github.com/CiSciUganda/publiiwebsite.git/atrap-project-description.html"/>
-        <id>http://github.com/CiSciUganda/publiiwebsite.git/atrap-project-description.html</id>
+        <link href="https://cisciuganda.github.io/publiiwebsite/atrap-project-description.html"/>
+        <id>https://cisciuganda.github.io/publiiwebsite/atrap-project-description.html</id>
 
         <updated>2019-06-11T13:03:52+02:00</updated>
             <summary>
@@ -119,8 +119,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="http://github.com/CiSciUganda/publiiwebsite.git/data-illustration.html"/>
-        <id>http://github.com/CiSciUganda/publiiwebsite.git/data-illustration.html</id>
+        <link href="https://cisciuganda.github.io/publiiwebsite/data-illustration.html"/>
+        <id>https://cisciuganda.github.io/publiiwebsite/data-illustration.html</id>
 
         <updated>2019-06-11T11:56:27+02:00</updated>
             <summary></summary>
@@ -135,8 +135,8 @@
         <author>
             <name>CitizenScienceUganda</name>
         </author>
-        <link href="http://github.com/CiSciUganda/publiiwebsite.git/how-it-began.html"/>
-        <id>http://github.com/CiSciUganda/publiiwebsite.git/how-it-began.html</id>
+        <link href="https://cisciuganda.github.io/publiiwebsite/how-it-began.html"/>
+        <id>https://cisciuganda.github.io/publiiwebsite/how-it-began.html</id>
 
         <updated>2019-06-11T11:47:11+02:00</updated>
             <summary>
