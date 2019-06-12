@@ -3,7 +3,7 @@
     <title>Citizen Science Uganda</title>
     <link href="https://cisciuganda.github.io/publiiwebsite/feed.xml" rel="self" />
     <link href="https://cisciuganda.github.io/publiiwebsite" />
-    <updated>2019-06-12T11:41:38+02:00</updated>
+    <updated>2019-06-12T11:51:19+02:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
@@ -17,23 +17,30 @@
         <link href="https://cisciuganda.github.io/publiiwebsite/contact-us.html"/>
         <id>https://cisciuganda.github.io/publiiwebsite/contact-us.html</id>
 
-        <updated>2019-06-12T11:41:07+02:00</updated>
+        <updated>2019-06-12T11:51:15+02:00</updated>
             <summary>
                 <![CDATA[
-                    Reason for contact: If you have any questions with regard to our&hellip;
+                     If you have any questions with regard to our projects, the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div class="modal-body">
-<p>Reason for contact:</p>
+<p> </p>
 <p>If you have any questions with regard to our projects, the methodology applied or access to the data, do not hesitate to contact us:</p>
 <form action="https://formspree.io/cisciuganda@gmail.com" method="POST">
 <div class="input-group"><span class="input-group-addon">Name </span> <br><input class="form-control" name="form-name-input" required="" type="text" placeholder="Your name"></div>
 <div class="input-group"><span class="input-group-addon">Email </span> <br><input class="form-control" name="form-name-input" required="" type="text" placeholder="Your email address"></div>
 <div class="input-group"><span class="input-group-addon">Institute </span> <br><input class="form-control" name="form-name-input" required="" type="text" placeholder="Your Institute"></div>
 <div class="input-group"><span class="input-group-addon">Type your Message/Question here: </span> <br> <textarea name="message" placeholder="Message/question"></textarea></div>
-<input name="purpose" type="checkbox" value="Question"> Question<br> <input name="purpose" type="checkbox" value="Data"> Request for data<br> <input name="purpose" type="checkbox" value="Collaboration"> Request for collaboration<br> <input name="purpose" type="checkbox" value="Other"> Other<br> <button type="submit">Send contact request</button></form></div>
+<p class="caption"><label for="reason">Reason for contact:</label></p>
+<p><select id="reason" name="reason">
+<option value="Other">Other</option>
+<option value="Question">Question</option>
+<option value="Collaboration">Collaboration</option>
+<option value="Access to Data">Request for data</option>
+</select></p>
+<br> <button type="submit">Send contact request</button></form></div>
             ]]>
         </content>
     </entry>
