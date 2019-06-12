@@ -2,16 +2,30 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Citizen Science Uganda",
     "description": "",
-    "home_page_url": "https://cisciuganda.github.io/publiiwebsite",
-    "feed_url": "https://cisciuganda.github.io/publiiwebsite/feed.json",
+    "home_page_url": "https://github.com/CiSciUganda/publiiwebsite",
+    "feed_url": "https://github.com/CiSciUganda/publiiwebsite/feed.json",
     "user_comment": "",
     "author": {
         "name": "CitizenScienceUganda"
     },
     "items": [
         {
-            "id": "https://cisciuganda.github.io/publiiwebsite/citizen-scientists.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/citizen-scientists.html",
+            "id": "https://github.com/CiSciUganda/publiiwebsite/projects.html",
+            "url": "https://github.com/CiSciUganda/publiiwebsite/projects.html",
+            "title": "PROJECTS",
+            "summary": "This website was built to highlight the joint activities related to citizen&hellip;",
+            "content_html": "This website was built to highlight the joint activities related to citizen science, as foreseen in the ATRAP, HARISSA and D-SIRE projects.",
+            "author": {
+                "name": "CitizenScienceUganda"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-12T16:40:43+02:00",
+            "date_modified": "2019-06-12T16:41:00+02:00"
+        },
+        {
+            "id": "https://github.com/CiSciUganda/publiiwebsite/citizen-scientists.html",
+            "url": "https://github.com/CiSciUganda/publiiwebsite/citizen-scientists.html",
             "title": "CITIZEN SCIENTISTS",
             "author": {
                 "name": "CitizenScienceUganda"
@@ -22,8 +36,8 @@
             "date_modified": "2019-06-12T16:11:36+02:00"
         },
         {
-            "id": "https://cisciuganda.github.io/publiiwebsite/consortium.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/consortium.html",
+            "id": "https://github.com/CiSciUganda/publiiwebsite/consortium.html",
+            "url": "https://github.com/CiSciUganda/publiiwebsite/consortium.html",
             "title": "Consortium",
             "summary": "With ATRAP, HARISSA and D-SIRE, different academic partners from Uganda and Belgium&hellip;",
             "content_html": "With ATRAP, HARISSA and D-SIRE, different academic partners from Uganda and Belgium collaborate on developing citizen science networks for data-collection on a variety of environmental risks. Beyond the goal to use citizen-generated data for their respective research questions, the projects will join forces to explore the potential of citizen scientists networks for communication and capacity-building in West and South-West-Uganda. Citizen Science networks for in-field data-collection on this scale, in thess context are rare and building-up this critical mass would not be possible without our partners, supporting institutions and of course, the citizen scientists.",
@@ -36,11 +50,11 @@
             "date_modified": "2019-06-12T16:12:34+02:00"
         },
         {
-            "id": "https://cisciuganda.github.io/publiiwebsite/supported-by.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/supported-by.html",
+            "id": "https://github.com/CiSciUganda/publiiwebsite/supported-by.html",
+            "url": "https://github.com/CiSciUganda/publiiwebsite/supported-by.html",
             "title": "Supported by",
             "summary": "These projects are supported by Global Minds (KU Leuven), VLIR-UOS and the Belgian Development&hellip;",
-            "content_html": "<p>These projects are supported by Global Minds (KU Leuven), <a href=\"https://www.vliruos.be/en/home/1\" target=\"_blank\" rel=\"noopener noreferrer\">VLIR-UOS</a> and the <a href=\"https://diplomatie.belgium.be/en/policy/development_cooperation\" target=\"_blank\" rel=\"noopener noreferrer\">Belgian Development Coorperation</a>.</p>\n<p><img class=\"post__image\" src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/9/vliruos.svg\" alt=\"\" width=\"383\" height=\"99\"></p>\n<p><img class=\"post__image\" src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/9/dgd.png\" alt=\"\" width=\"374\" height=\"86\"></p>",
+            "content_html": "<p>These projects are supported by Global Minds (KU Leuven), <a href=\"https://www.vliruos.be/en/home/1\" target=\"_blank\" rel=\"noopener noreferrer\">VLIR-UOS</a> and the <a href=\"https://diplomatie.belgium.be/en/policy/development_cooperation\" target=\"_blank\" rel=\"noopener noreferrer\">Belgian Development Coorperation</a>.</p>\n<p><img class=\"post__image\" src=\"https://github.com/CiSciUganda/publiiwebsite/media/posts/9/vliruos.svg\" alt=\"\" width=\"383\" height=\"99\"></p>\n<p><img class=\"post__image\" src=\"https://github.com/CiSciUganda/publiiwebsite/media/posts/9/dgd.png\" alt=\"\" width=\"374\" height=\"86\"></p>",
             "author": {
                 "name": "CitizenScienceUganda"
             },
@@ -50,11 +64,11 @@
             "date_modified": "2019-06-12T16:03:04+02:00"
         },
         {
-            "id": "https://cisciuganda.github.io/publiiwebsite/partners.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/partners.html",
+            "id": "https://github.com/CiSciUganda/publiiwebsite/partners.html",
+            "url": "https://github.com/CiSciUganda/publiiwebsite/partners.html",
             "title": "Partners",
             "summary": "Mbarara University of Science and technology, Mbara UgandaMountains of the Moon University,&hellip;",
-            "content_html": "<figure class=\"post__image post__image\" ><img src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/8/must-site-logo11-1.png\" alt=\"Mbarara University of Science &amp; Technology\" width=\"462\" height=\"157\">\n<figcaption >Mbarara University of Science and technology, Mbara Uganda</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/8/MMU-logo.png\" alt=\"\" width=\"1074\" height=\"141\">\n<figcaption >Mountains of the Moon University, Fort Portal, Uganda</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/8/africamuseum.svg\" alt=\"\" width=\"271\" height=\"66\">\n<figcaption >Royal Museum for Central Africa, Tervuren, Belgium</figcaption>\n</figure>\n<p><img class=\"post__image\" src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/8/VUB.png\" alt=\"\" width=\"429\" height=\"151\"></p>\n<p><img class=\"post__image\" src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/8/KUL2.png\" alt=\"\" width=\"449\" height=\"160\"></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "content_html": "<figure class=\"post__image post__image\" ><img src=\"https://github.com/CiSciUganda/publiiwebsite/media/posts/8/must-site-logo11-1.png\" alt=\"Mbarara University of Science &amp; Technology\" width=\"462\" height=\"157\">\n<figcaption >Mbarara University of Science and technology, Mbara Uganda</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img src=\"https://github.com/CiSciUganda/publiiwebsite/media/posts/8/MMU-logo.png\" alt=\"\" width=\"1074\" height=\"141\">\n<figcaption >Mountains of the Moon University, Fort Portal, Uganda</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img src=\"https://github.com/CiSciUganda/publiiwebsite/media/posts/8/africamuseum.svg\" alt=\"\" width=\"271\" height=\"66\">\n<figcaption >Royal Museum for Central Africa, Tervuren, Belgium</figcaption>\n</figure>\n<p><img class=\"post__image\" src=\"https://github.com/CiSciUganda/publiiwebsite/media/posts/8/VUB.png\" alt=\"\" width=\"429\" height=\"151\"></p>\n<p><img class=\"post__image\" src=\"https://github.com/CiSciUganda/publiiwebsite/media/posts/8/KUL2.png\" alt=\"\" width=\"449\" height=\"160\"></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "CitizenScienceUganda"
             },
@@ -64,8 +78,8 @@
             "date_modified": "2019-06-12T15:56:05+02:00"
         },
         {
-            "id": "https://cisciuganda.github.io/publiiwebsite/contact-us.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/contact-us.html",
+            "id": "https://github.com/CiSciUganda/publiiwebsite/contact-us.html",
+            "url": "https://github.com/CiSciUganda/publiiwebsite/contact-us.html",
             "title": "Contact Us",
             "summary": " If you have any questions with regard to our projects, the&hellip;",
             "content_html": "<div class=\"modal-body\">\n<p> </p>\n<p>If you have any questions with regard to our projects, the methodology applied or access to the data, do not hesitate to contact us:</p>\n<form action=\"https://formspree.io/cisciuganda@gmail.com\" method=\"POST\">\n<div class=\"input-group\"><span class=\"input-group-addon\">Name </span> <br><input class=\"form-control\" name=\"form-name-input\" required=\"\" type=\"text\" placeholder=\"Your name\"></div>\n<div class=\"input-group\"><span class=\"input-group-addon\">Email </span> <br><input class=\"form-control\" name=\"form-name-input\" required=\"\" type=\"text\" placeholder=\"Your email address\"></div>\n<div class=\"input-group\"><span class=\"input-group-addon\">Institute </span> <br><input class=\"form-control\" name=\"form-name-input\" required=\"\" type=\"text\" placeholder=\"Your Institute\"></div>\n<div class=\"input-group\"><span class=\"input-group-addon\">Type your Message/Question here: </span> <br> <textarea name=\"message\" placeholder=\"Message/question\"></textarea></div>\n<p class=\"caption\"><label for=\"reason\">Reason for contact:</label></p>\n<p><select id=\"reason\" name=\"reason\">\n<option value=\"Other\">Other</option>\n<option value=\"Question\">Question</option>\n<option value=\"Collaboration\">Collaboration</option>\n<option value=\"Access to Data\">Request for data</option>\n</select></p>\n<br> <button type=\"submit\">Send contact request</button></form></div>",
@@ -78,8 +92,8 @@
             "date_modified": "2019-06-12T11:52:11+02:00"
         },
         {
-            "id": "https://cisciuganda.github.io/publiiwebsite/swamp-project-description.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/swamp-project-description.html",
+            "id": "https://github.com/CiSciUganda/publiiwebsite/swamp-project-description.html",
+            "url": "https://github.com/CiSciUganda/publiiwebsite/swamp-project-description.html",
             "title": "SWAMP PROJECT DESCRIPTION",
             "summary": "THIS IS THE SWAMP PROJECT DESCRIPTION PAGE",
             "content_html": "THIS IS THE SWAMP PROJECT DESCRIPTION PAGE",
@@ -92,8 +106,8 @@
             "date_modified": "2019-06-11T13:05:11+02:00"
         },
         {
-            "id": "https://cisciuganda.github.io/publiiwebsite/d-sire-project-description.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/d-sire-project-description.html",
+            "id": "https://github.com/CiSciUganda/publiiwebsite/d-sire-project-description.html",
+            "url": "https://github.com/CiSciUganda/publiiwebsite/d-sire-project-description.html",
             "title": "D-SIRE PROJECT DESCRIPTION",
             "summary": "tHIS IS THE DSIRE PROJECT DESCRIPTION",
             "content_html": "tHIS IS THE DSIRE PROJECT DESCRIPTION",
@@ -106,8 +120,8 @@
             "date_modified": "2019-06-11T13:04:54+02:00"
         },
         {
-            "id": "https://cisciuganda.github.io/publiiwebsite/harissa-project.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/harissa-project.html",
+            "id": "https://github.com/CiSciUganda/publiiwebsite/harissa-project.html",
+            "url": "https://github.com/CiSciUganda/publiiwebsite/harissa-project.html",
             "title": "HARISSA PROJECT DESCRIPTION",
             "summary": "THIS IS A DESCRIPTION OF THE HARISSA PROJECT",
             "content_html": "THIS IS A DESCRIPTION OF THE HARISSA PROJECT",
@@ -120,8 +134,8 @@
             "date_modified": "2019-06-11T13:04:35+02:00"
         },
         {
-            "id": "https://cisciuganda.github.io/publiiwebsite/atrap-project-description.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/atrap-project-description.html",
+            "id": "https://github.com/CiSciUganda/publiiwebsite/atrap-project-description.html",
+            "url": "https://github.com/CiSciUganda/publiiwebsite/atrap-project-description.html",
             "title": "ATRAP PROJECT DESCRIPTION",
             "summary": "THIS IS THE DESCRIPTION OF ATRAP",
             "content_html": "THIS IS THE DESCRIPTION OF ATRAP",
@@ -132,19 +146,6 @@
             ],
             "date_published": "2019-06-11T13:03:52+02:00",
             "date_modified": "2019-06-11T13:03:52+02:00"
-        },
-        {
-            "id": "https://cisciuganda.github.io/publiiwebsite/data-illustration.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/data-illustration.html",
-            "title": "Data: illustration",
-            "content_html": "<iframe width=\"1200\" height=\"1000\" align=\"right\" src=\"https://citizenscienceuganda.shinyapps.io/shinyapp/\"></iframe>",
-            "author": {
-                "name": "CitizenScienceUganda"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-06-11T11:56:27+02:00",
-            "date_modified": "2019-06-11T11:56:27+02:00"
         }
     ]
 }
