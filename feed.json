@@ -10,6 +10,60 @@
     },
     "items": [
         {
+            "id": "https://cisciuganda.github.io/publiiwebsite/citizen-scientists.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/citizen-scientists.html",
+            "title": "CITIZEN SCIENTISTS",
+            "author": {
+                "name": "CitizenScienceUganda"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-12T16:11:36+02:00",
+            "date_modified": "2019-06-12T16:11:36+02:00"
+        },
+        {
+            "id": "https://cisciuganda.github.io/publiiwebsite/consortium.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/consortium.html",
+            "title": "Consortium",
+            "summary": "With ATRAP, HARISSA and D-SIRE, different academic partners from Uganda and Belgium&hellip;",
+            "content_html": "With ATRAP, HARISSA and D-SIRE, different academic partners from Uganda and Belgium collaborate on developing citizen science networks for data-collection on a variety of environmental risks. Beyond the goal to use citizen-generated data for their respective research questions, the projects will join forces to explore the potential of citizen scientists networks for communication and capacity-building in West and South-West-Uganda. Citizen Science networks for in-field data-collection on this scale, in thess context are rare and building-up this critical mass would not be possible without our partners, supporting institutions and of course, the citizen scientists.",
+            "author": {
+                "name": "CitizenScienceUganda"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-12T16:09:28+02:00",
+            "date_modified": "2019-06-12T16:12:34+02:00"
+        },
+        {
+            "id": "https://cisciuganda.github.io/publiiwebsite/supported-by.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/supported-by.html",
+            "title": "Supported by",
+            "summary": "These projects are supported by Global Minds (KU Leuven), VLIR-UOS and the Belgian Development&hellip;",
+            "content_html": "<p>These projects are supported by Global Minds (KU Leuven), <a href=\"https://www.vliruos.be/en/home/1\" target=\"_blank\" rel=\"noopener noreferrer\">VLIR-UOS</a> and the <a href=\"https://diplomatie.belgium.be/en/policy/development_cooperation\" target=\"_blank\" rel=\"noopener noreferrer\">Belgian Development Coorperation</a>.</p>\n<p><img class=\"post__image\" src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/9/vliruos.svg\" alt=\"\" width=\"383\" height=\"99\"></p>\n<p><img class=\"post__image\" src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/9/dgd.png\" alt=\"\" width=\"374\" height=\"86\"></p>",
+            "author": {
+                "name": "CitizenScienceUganda"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-12T16:03:04+02:00",
+            "date_modified": "2019-06-12T16:03:04+02:00"
+        },
+        {
+            "id": "https://cisciuganda.github.io/publiiwebsite/partners.html",
+            "url": "https://cisciuganda.github.io/publiiwebsite/partners.html",
+            "title": "Partners",
+            "summary": "Mbarara University of Science and technology, Mbara UgandaMountains of the Moon University,&hellip;",
+            "content_html": "<figure class=\"post__image post__image\" ><img src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/8/must-site-logo11-1.png\" alt=\"Mbarara University of Science &amp; Technology\" width=\"462\" height=\"157\">\n<figcaption >Mbarara University of Science and technology, Mbara Uganda</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/8/MMU-logo.png\" alt=\"\" width=\"1074\" height=\"141\">\n<figcaption >Mountains of the Moon University, Fort Portal, Uganda</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/8/africamuseum.svg\" alt=\"\" width=\"271\" height=\"66\">\n<figcaption >Royal Museum for Central Africa, Tervuren, Belgium</figcaption>\n</figure>\n<p><img class=\"post__image\" src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/8/VUB.png\" alt=\"\" width=\"429\" height=\"151\"></p>\n<p><img class=\"post__image\" src=\"https://cisciuganda.github.io/publiiwebsite/media/posts/8/KUL2.png\" alt=\"\" width=\"449\" height=\"160\"></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "CitizenScienceUganda"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-12T15:56:05+02:00",
+            "date_modified": "2019-06-12T15:56:05+02:00"
+        },
+        {
             "id": "https://cisciuganda.github.io/publiiwebsite/contact-us.html",
             "url": "https://cisciuganda.github.io/publiiwebsite/contact-us.html",
             "title": "Contact Us",
@@ -91,20 +145,6 @@
             ],
             "date_published": "2019-06-11T11:56:27+02:00",
             "date_modified": "2019-06-11T11:56:27+02:00"
-        },
-        {
-            "id": "https://cisciuganda.github.io/publiiwebsite/how-it-began.html",
-            "url": "https://cisciuganda.github.io/publiiwebsite/how-it-began.html",
-            "title": "How it began...",
-            "summary": "In February 2017 we started with a group of 21 citizens of&hellip;",
-            "content_html": "<p>In February 2017 we started with a group of 21 citizens of the Rwenzori Mountains, the geo-observers. After a one-day course and an excursion, the geo-observers were trained to use a smartphone to collect information on hailstorms, landslides, floods, lightning, windstorms, earthquakes, droughts and pests- and diseases using the KoboCollect application (<a href=\"https://kobotoolbox.org\">https://kobotoolbox.org)</a>. This citizen science network was one of the key objectives of a VLIR-SI project coordinated by the VUB and Mountains of the Moon University. A broad methodological overview and proof of concept can be found here: <a href=\"https://www.sciencedirect.com/science/article/pii/S0048969719311659\">https://www.sciencedirect.com/science/article/pii/S0048969719311659. </a></p>\n<p>This pilot project was in many ways an eye-opener, and based upon our experiences, other citizen science network are currently under development in West-Uganda. D-SIRE is a continuation of the VLIR-SI project, funded by VLIR-UOS for the period of 2019-2022. HARISSA also focuses on hazard and risk and will implement a citizen science network in SW-Uganda. Finally, ATRAP focuses on schistosomiasis risk and a citizen science network will be started to monitor snail populations acting as a vector for the disease. ATRAP and HARISSA are funded by DGD, Belgium (2019-2023).</p>\n<p class=\"align-center\">&lt;&lt;      If you want to go far, go together  &gt;&gt;</p>",
-            "author": {
-                "name": "CitizenScienceUganda"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-06-11T11:46:18+02:00",
-            "date_modified": "2019-06-11T11:47:11+02:00"
         }
     ]
 }
