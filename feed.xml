@@ -3,7 +3,7 @@
     <title>Citizen Science Uganda</title>
     <link href="https://www.citizenscienceuganda.info/feed.xml" rel="self" />
     <link href="https://www.citizenscienceuganda.info" />
-    <updated>2019-06-13T09:27:57+02:00</updated>
+    <updated>2019-07-12T11:09:49+02:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
@@ -125,7 +125,7 @@
         <link href="https://www.citizenscienceuganda.info/contact-us.html"/>
         <id>https://www.citizenscienceuganda.info/contact-us.html</id>
 
-        <updated>2019-06-12T11:52:11+02:00</updated>
+        <updated>2019-07-12T10:57:37+02:00</updated>
             <summary>
                 <![CDATA[
                      If you have any questions with regard to our projects, the&hellip;
@@ -220,15 +220,23 @@
         <link href="https://www.citizenscienceuganda.info/atrap-project-description.html"/>
         <id>https://www.citizenscienceuganda.info/atrap-project-description.html</id>
 
-        <updated>2019-06-11T13:03:52+02:00</updated>
+        <updated>2019-07-12T11:06:47+02:00</updated>
             <summary>
                 <![CDATA[
-                    THIS IS THE DESCRIPTION OF ATRAP
+                     Snail-borne diseases, including schistosomiasis, form a major public and veterinary health&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                THIS IS THE DESCRIPTION OF ATRAP
+                <p> </p>
+<p>Snail-borne diseases, including schistosomiasis, form a major public and veterinary health burden, especially in sub-Saharn Africa. Despite regular mass drug administration schistosomiasis continues to (re-)emerge. Research demonstrated that a limited knowledge, risky water practices, and negative attitudes and beliefs about schistosomiasis increase the risk of infection. Therefore, snail control and health education are essential components of elimination programs. In this project we want to develop a novel snail monitoring approach that can be executed by non-specialists: citizens will be actively involved in snail monitoring, but will also act as communicator to the wider community. Apart from effective sensibilisation and education, this ‘<em>citizen science’ </em>approach will allow to significantly increase the scale and resolution of snail monitoring, generating the much-anticipated ecological data to create reliable risk maps and help policy makers in targeted snail control. </p>
+<figure class="post__image post__image--center" ><img src="https://www.citizenscienceuganda.info/media/posts/3/1_RMCA-foto-schistosoma-copula-kleur-label-RMCA.png" alt="micrograph of a schistosome worm pair (not to scale) " width="1280" height="960">
+<figcaption >Micrograph of a schistosome worm pair (not to scale) </figcaption>
+</figure>
+<p>The project is centered around the scientific objective of better understanding fresh-water snail (vector) dynamics using a research team consisting of citizen scientists, health workers and MSc/PhD students from Uganda/DR Congo and Belgium. ATRAP also has a strong capacity building and research dissemination component. For more information regarding ATRAP's objectives and methodologies, please contact: <a href="mailto:Tine.huyse@africamuseum.be">Tine.huyse@africamuseum.be</a>.</p>
+<figure class="post__image post__image--center" ><img src="https://www.citizenscienceuganda.info/media/posts/3/project-scheme_lj2.png" alt="" width="3000" height="2250">
+<figcaption >Project visualization</figcaption>
+</figure>
             ]]>
         </content>
     </entry>
