@@ -3,7 +3,7 @@
     <title>Citizen Science Uganda</title>
     <link href="https://www.citizenscienceuganda.info/feed.xml" rel="self" />
     <link href="https://www.citizenscienceuganda.info" />
-    <updated>2019-07-16T11:08:26+02:00</updated>
+    <updated>2019-07-16T11:25:16+02:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.citizenscienceuganda.info/projects.html"/>
         <id>https://www.citizenscienceuganda.info/projects.html</id>
 
-        <updated>2019-07-16T11:08:21+02:00</updated>
+        <updated>2019-07-16T11:25:10+02:00</updated>
             <summary>
                 <![CDATA[
                     This website was built to highlight the joint activities related to citizen&hellip;
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>This website was built to highlight the joint activities related to citizen science, as foreseen in the ATRAP, HARISSA and D-SIRE projects.</p>
-<a href="https://www.citizenscienceuganda.info/atrap-project-description.html"><img style="float: left; width: 25%;" src="https://www.citizenscienceuganda.info/media/posts/12/squares_ATRAP.jpg" alt=""></a> <a href="https://www.citizenscienceuganda.info/d-sire-project-description.html"><img style="float: left; width: 25%;" src="https://www.citizenscienceuganda.info/media/posts/12/gallery/squares_DSIRE.jpg" alt=""></a> <a href="https://www.citizenscienceuganda.info/harissa-project.html"><img style="float: left; width: 25%;" src="https://www.citizenscienceuganda.info/media/posts/12/squares_HARISSA.jpg" alt=""></a> <a href="https://www.citizenscienceuganda.info/swamp-project-description.html"><img style="float: left; width: 25%;" src="https://www.citizenscienceuganda.info/media/posts/12/squares_SWAMP.jpg" alt=""></a>
+<a href="https://www.citizenscienceuganda.info/atrap-project-description.html"><img style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;" src="https://www.citizenscienceuganda.info/media/posts/12/squares_ATRAP.jpg" alt=""></a> <a href="https://www.citizenscienceuganda.info/d-sire-project-description.html"><img style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;" src="https://www.citizenscienceuganda.info/media/posts/12/gallery/squares_DSIRE.jpg" alt=""></a> <a href="https://www.citizenscienceuganda.info/harissa-project.html"><img style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;" src="https://www.citizenscienceuganda.info/media/posts/12/squares_HARISSA.jpg" alt=""></a> <a href="https://www.citizenscienceuganda.info/swamp-project-description.html"><img style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;" src="https://www.citizenscienceuganda.info/media/posts/12/squares_SWAMP.jpg" alt=""></a>
             ]]>
         </content>
     </entry>
