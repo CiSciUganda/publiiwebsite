@@ -69,14 +69,14 @@
             "url": "https://www.citizenscienceuganda.info/partners.html",
             "title": "Partners",
             "summary": "Mbarara University of Science and technology, Mbara UgandaMountains of the Moon University,&hellip;",
-            "content_html": "<figure class=\"post__image post__image\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/8/must-site-logo11-1.png\" alt=\"Mbarara University of Science &amp; Technology\" width=\"449\" height=\"157\">\n<figcaption >Mbarara University of Science and technology, Mbara Uganda</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/8/MMU-logo.png\" alt=\"\" width=\"449\" height=\"141\">\n<figcaption >Mountains of the Moon University, Fort Portal, Uganda</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/8/africamuseum.svg\" alt=\"\" width=\"449\" height=\"66\">\n<figcaption >Royal Museum for Central Africa, Tervuren, Belgium</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img class=\"post__image\" src=\"https://www.citizenscienceuganda.info/media/posts/8/VUB.png\" alt=\"\" width=\"449\" height=\"151\">\n<figcaption >Vrije Universiteit Brussel, Belgium</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img class=\"post__image\" src=\"https://www.citizenscienceuganda.info/media/posts/8/KUL2.png\" alt=\"\" width=\"449\" height=\"160\">\n<figcaption >KU Leuven, Belgium</figcaption>\n</figure>",
+            "content_html": "<figure class=\"post__image undefined\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/8/logospartnersmust.jpg\" width=\"756\" height=\"446\">\n<figcaption >Mbarara University of Science and technology, Mbara Uganda</figcaption>\n</figure>\n<figure class=\"post__image undefined\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/8/logospartnersmmu.jpg\" width=\"756\" height=\"446\">\n<figcaption >Mountains of the Moon University, Fort Portal, Uganda</figcaption>\n</figure>\n<figure class=\"post__image undefined\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/8/logospartnersrmca.jpg\" width=\"756\" height=\"446\">\n<figcaption >Royal Museum for Central Africa, Tervuren, Belgium</figcaption>\n</figure>\n<figure class=\"post__image undefined\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/8/logospartnersvub.jpg\" width=\"756\" height=\"446\">\n<figcaption >Vrije Universiteit Brussel, Belgium</figcaption>\n</figure>\n<figure class=\"post__image undefined\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/8/logospartners.jpg\" width=\"756\" height=\"446\">\n<figcaption >KU Leuven, Belgium</figcaption>\n</figure>",
             "author": {
                 "name": "CitizenScienceUganda"
             },
             "tags": [
             ],
             "date_published": "2019-06-12T15:56:05+02:00",
-            "date_modified": "2019-07-30T15:23:12+02:00"
+            "date_modified": "2019-07-31T09:13:55+02:00"
         },
         {
             "id": "https://www.citizenscienceuganda.info/contact-us.html",
@@ -124,15 +124,15 @@
             "id": "https://www.citizenscienceuganda.info/harissa-project.html",
             "url": "https://www.citizenscienceuganda.info/harissa-project.html",
             "title": "HARISSA PROJECT DESCRIPTION",
-            "summary": "THIS IS A DESCRIPTION OF THE HARISSA PROJECT",
-            "content_html": "THIS IS A DESCRIPTION OF THE HARISSA PROJECT",
+            "summary": "HARISSA stands form “Natural HAzards, RISks and Society in Africa: developing knowledge&hellip;",
+            "content_html": "<p><span style=\"font-size: small;\">HARISSA stands form “Natural </span><span style=\"font-size: small;\"><strong>HA</strong></span><span style=\"font-size: small;\">zards, </span><span style=\"font-size: small;\"><strong>RISk</strong></span><span style=\"font-size: small;\">s and </span><span style=\"font-size: small;\"><strong>S</strong></span><span style=\"font-size: small;\">ociety in </span><span style=\"font-size: small;\"><strong>A</strong></span><span style=\"font-size: small;\">frica: developing knowledge and capacities”. HARISSA's long-term overall objective is to contribute to reducing the incidence of natural hazards and associated risks in Central Africa and in particular in the West Branch of the East African Rift (DRC, Uganda, Rwanda and Burundi). </span></p>\n<p class=\"msg msg--highlight \"><span style=\"font-size: small;\">The project aims to develop knowledge and expertise of the partner institutions by following four specific objectives: 1/ academic training, 2/ mapping and hazard data collection, 3/ improving awareness and risk preparedness, and 4/ consolidating previous achievements. The achievement of these objectives is based on the strengthening of key institutions in these domains with a strong link to citizen-based science. The project aims to target the wide range of stakeholders concerned by natural risks and disasters, from academic or research groups to citizens and policy makers. The project will also look at the impact of citizen-science on development.</span></p>\n<p><span style=\"font-size: small;\">HARISSA is a 5-year project funded by the Belgian Development Cooperation (DGD). The project is coordinated by the by the Royal Museum for Central Africa (RMCA, Belgium) in partnership with, in Uganda, Mbarara University of Science and Technology (MUST).</span></p>\n<figure class=\"post__image post__image\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/4/harissascheme.jpg\" alt=\"\" width=\"1469\" height=\"977\">\n<figcaption >Project layout and pathway of change</figcaption>\n</figure>\n<figure class=\"post__image post__image\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/4/P1180021.JPG.jpg\" alt=\"\" width=\"1379\" height=\"1034\">\n<figcaption >A landscape at risk from landslides, floods and soil erosion, SW Uganda, February 2019</figcaption>\n</figure>",
             "author": {
                 "name": "CitizenScienceUganda"
             },
             "tags": [
             ],
             "date_published": "2019-06-11T13:04:24+02:00",
-            "date_modified": "2019-06-11T13:04:35+02:00"
+            "date_modified": "2019-07-31T09:07:47+02:00"
         },
         {
             "id": "https://www.citizenscienceuganda.info/atrap-project-description.html",
