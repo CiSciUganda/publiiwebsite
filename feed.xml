@@ -3,7 +3,7 @@
     <title>Citizen Science Uganda</title>
     <link href="https://www.citizenscienceuganda.info/feed.xml" rel="self" />
     <link href="https://www.citizenscienceuganda.info" />
-    <updated>2019-07-31T09:13:59+02:00</updated>
+    <updated>2019-07-31T09:23:08+02:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
@@ -93,7 +93,7 @@
         <link href="https://www.citizenscienceuganda.info/partners.html"/>
         <id>https://www.citizenscienceuganda.info/partners.html</id>
 
-        <updated>2019-07-31T09:13:55+02:00</updated>
+        <updated>2019-07-31T09:23:04+02:00</updated>
             <summary>
                 <![CDATA[
                     Mbarara University of Science and technology, Mbara UgandaMountains of the Moon University,&hellip;
@@ -101,19 +101,19 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image undefined" ><img src="https://www.citizenscienceuganda.info/media/posts/8/logospartnersmust.jpg" width="756" height="446">
+                <figure class="post__image undefined" ><img src="https://www.citizenscienceuganda.info/media/posts/8/logospartnersmust.jpg" width="378" height="223">
 <figcaption >Mbarara University of Science and technology, Mbara Uganda</figcaption>
 </figure>
-<figure class="post__image undefined" ><img src="https://www.citizenscienceuganda.info/media/posts/8/logospartnersmmu.jpg" width="756" height="446">
+<figure class="post__image undefined" ><img src="https://www.citizenscienceuganda.info/media/posts/8/logospartnersmmu.jpg" width="378" height="223">
 <figcaption >Mountains of the Moon University, Fort Portal, Uganda</figcaption>
 </figure>
-<figure class="post__image undefined" ><img src="https://www.citizenscienceuganda.info/media/posts/8/logospartnersrmca.jpg" width="756" height="446">
+<figure class="post__image undefined" ><img src="https://www.citizenscienceuganda.info/media/posts/8/logospartnersrmca.jpg" width="378" height="223">
 <figcaption >Royal Museum for Central Africa, Tervuren, Belgium</figcaption>
 </figure>
-<figure class="post__image undefined" ><img src="https://www.citizenscienceuganda.info/media/posts/8/logospartnersvub.jpg" width="756" height="446">
+<figure class="post__image undefined" ><img src="https://www.citizenscienceuganda.info/media/posts/8/logospartnersvub.jpg" width="378" height="223">
 <figcaption >Vrije Universiteit Brussel, Belgium</figcaption>
 </figure>
-<figure class="post__image undefined" ><img src="https://www.citizenscienceuganda.info/media/posts/8/logospartners.jpg" width="756" height="446">
+<figure class="post__image undefined" ><img src="https://www.citizenscienceuganda.info/media/posts/8/logospartners.jpg" width="378" height="223">
 <figcaption >KU Leuven, Belgium</figcaption>
 </figure>
             ]]>
