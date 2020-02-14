@@ -3,7 +3,7 @@
     <title>Citizen Science Uganda</title>
     <link href="https://www.citizenscienceuganda.info/feed.xml" rel="self" />
     <link href="https://www.citizenscienceuganda.info" />
-    <updated>2020-02-14T16:58:10+01:00</updated>
+    <updated>2020-02-14T16:59:58+01:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
@@ -60,17 +60,17 @@
         <link href="https://www.citizenscienceuganda.info/data-request.html"/>
         <id>https://www.citizenscienceuganda.info/data-request.html</id>
 
-        <updated>2020-02-14T16:58:06+01:00</updated>
+        <updated>2020-02-14T16:59:53+01:00</updated>
             <summary>
                 <![CDATA[
-                     With this sheet you can request access to the full dataset&hellip;
+                     With this sheet you can request access to full datasets Select&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div class="modal-body">
 <p> </p>
-<p>With this sheet you can request access to the full dataset</p>
+<p>With this sheet you can request access to full datasets</p>
 <form action="https://formspree.io/cisciuganda@gmail.com" method="POST">
 <div class="input-group"><span class="input-group-addon">Name </span> <br><input class="form-control" name="form-name-input" required="" type="text" placeholder="Your name"></div>
 <div class="input-group"><span class="input-group-addon">Email </span> <br><input class="form-control" name="form-name-input" required="" type="text" placeholder="Your email address"></div>
