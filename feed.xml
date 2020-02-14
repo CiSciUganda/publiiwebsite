@@ -3,7 +3,7 @@
     <title>Citizen Science Uganda</title>
     <link href="https://www.citizenscienceuganda.info/feed.xml" rel="self" />
     <link href="https://www.citizenscienceuganda.info" />
-    <updated>2020-02-14T16:43:12+01:00</updated>
+    <updated>2020-02-14T16:50:14+01:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
@@ -60,7 +60,7 @@
         <link href="https://www.citizenscienceuganda.info/data-request.html"/>
         <id>https://www.citizenscienceuganda.info/data-request.html</id>
 
-        <updated>2020-02-14T16:43:06+01:00</updated>
+        <updated>2020-02-14T16:50:09+01:00</updated>
             <summary>
                 <![CDATA[
                      With this sheet you can request access to the full dataset&hellip;
@@ -76,7 +76,7 @@
 <div class="input-group"><span class="input-group-addon">Email </span> <br><input class="form-control" name="form-name-input" required="" type="text" placeholder="Your email address"></div>
 <div class="input-group"><span class="input-group-addon">Institute/affiliation </span> <br><input class="form-control" name="form-name-input" required="" type="text" placeholder="Your Institute/affiliation"></div>
 <p class="caption"><label for="dataset">Select the dataset you wish to access:</label></p>
-<p><select id="dataset" name="dataset" size="2">
+<p><select id="dataset" name="dataset" required="" size="2">
 <option value="Geo-observer data in West and South-West Uganda">Geo-observer data in West and South-West Uganda</option>
 <option value="Data of citizen scientists ATRAP">Data of citizen scientists ATRAP</option>
 </select></p>
@@ -88,7 +88,6 @@
 <option value="other">other</option>
 </select></p>
 <br> <label> <input name="agree" type="checkbox" value="yes"> I agree with the <a href="http://citizenscienceuganda.info/terms-and-conditions">terms and conditions </a> of this request and have read and understood the <a href="http://citizenscienceuganda.info/disclaimer">disclaimer </a> </label> <br> <button type="submit">Send data access request</button></form></div>
-<label for="orange">Orange</label> <input id="orange" name="name" type="checkbox" placeholder="Ask me a question...">
             ]]>
         </content>
     </entry>
