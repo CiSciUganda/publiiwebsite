@@ -3,7 +3,7 @@
     <title>Citizen Science Uganda</title>
     <link href="https://www.citizenscienceuganda.info/feed.xml" rel="self" />
     <link href="https://www.citizenscienceuganda.info" />
-    <updated>2020-02-17T10:06:56+01:00</updated>
+    <updated>2020-02-17T10:16:13+01:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
@@ -152,7 +152,7 @@
         <link href="https://www.citizenscienceuganda.info/data-request.html"/>
         <id>https://www.citizenscienceuganda.info/data-request.html</id>
 
-        <updated>2020-02-17T10:02:46+01:00</updated>
+        <updated>2020-02-17T10:16:08+01:00</updated>
             <summary>
                 <![CDATA[
                      With this sheet you can request access to full datasets Select&hellip;
@@ -179,7 +179,7 @@
 <option value="(academic) Research">(academic) Research</option>
 <option value="other">other</option>
 </select></p>
-<div class="input-group"><span class="input-group-addon">Please describe the intended use of the data including the geographical area and time period you are particularly interested in </span> <br><input class="form-control" style="height: 140px; width: 800px;" name="form-name-input" required="" size="500" type="text" placeholder="e.g. I'm interested in the data on crop pests- and diseases in SW Uganda, Kisoro district, for the period of December 2019 - February 2020 for the extension work activities of the NGO XXX"></div>
+<div class="input-group"><span class="input-group-addon">Please describe the intended use of the data including the geographical area and time period you are particularly interested in </span> <br><input style="height: 140px; width: 700px;" name="form-name-input" required="" size="500" type="text" placeholder="e.g. I'm interested in the data on crop pests- and diseases in SW Uganda, Kisoro district, for the period of December 2019 - February 2020 for the extension work activities of the NGO XXX"></div>
 <br> <label> Read the <a href="http://citizenscienceuganda.info/terms-and-conditions">terms and conditions </a> and the data <a href="http://citizenscienceuganda.info/disclaimer">disclaimer </a> and select below</label>
 <p><select id="agreement" name="agreement" required="">
 <option value="blank"></option>
