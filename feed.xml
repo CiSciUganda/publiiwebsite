@@ -3,7 +3,7 @@
     <title>Citizen Science Uganda</title>
     <link href="https://www.citizenscienceuganda.info/feed.xml" rel="self" />
     <link href="https://www.citizenscienceuganda.info" />
-    <updated>2020-02-18T15:48:20+01:00</updated>
+    <updated>2020-02-18T15:51:47+01:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
@@ -82,14 +82,14 @@
         </content>
     </entry>
     <entry>
-        <title>HARISSA: researchers</title>
+        <title>HARISSA: Researchers</title>
         <author>
             <name>CitizenScienceUganda</name>
         </author>
         <link href="https://www.citizenscienceuganda.info/harissa-researchers-2.html"/>
         <id>https://www.citizenscienceuganda.info/harissa-researchers-2.html</id>
 
-        <updated>2020-02-18T15:47:41+01:00</updated>
+        <updated>2020-02-18T15:51:17+01:00</updated>
             <summary>
                 <![CDATA[
                     Senior Researchers Junior ResearchersJulius Tumusiime - Doctoral researcher at MUSTMercy-Gloria AshepetDavid Muribu&hellip;
@@ -220,18 +220,6 @@
         </content>
     </entry>
     <entry>
-        <title>HARISSA: Researchers</title>
-        <author>
-            <name>CitizenScienceUganda</name>
-        </author>
-        <link href="https://www.citizenscienceuganda.info/harissa-researchers.html"/>
-        <id>https://www.citizenscienceuganda.info/harissa-researchers.html</id>
-
-        <updated>2020-02-17T09:25:56+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
         <title>SWAMP project workshop + ATRAP &amp; HARISSA official launch</title>
         <author>
             <name>CitizenScienceUganda</name>
@@ -340,6 +328,28 @@
 <figcaption class="gallery-description">Faith Mugabi - Master student at MUST</figcaption>
 </figure>
 </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>PROJECTS</title>
+        <author>
+            <name>CitizenScienceUganda</name>
+        </author>
+        <link href="https://www.citizenscienceuganda.info/projects.html"/>
+        <id>https://www.citizenscienceuganda.info/projects.html</id>
+
+        <updated>2019-07-29T15:57:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This website was built to highlight the joint activities related to citizen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This website was built to highlight the joint activities related to citizen science, as foreseen in the ATRAP, HARISSA and D-SIRE projects.</p>
+<a href="https://www.citizenscienceuganda.info/atrap-project-description.html"><img style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;" src="https://www.citizenscienceuganda.info/media/posts/12/squares_ATRAP.jpg" alt=""></a> <a href="https://www.citizenscienceuganda.info/d-sire-project-description.html"><img style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;" src="https://www.citizenscienceuganda.info/media/posts/12/gallery/squares_DSIRE.jpg" alt=""></a> <a href="https://www.citizenscienceuganda.info/harissa-project.html"><img style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;" src="https://www.citizenscienceuganda.info/media/posts/12/squares_HARISSA.jpg" alt=""></a> <a href="https://www.citizenscienceuganda.info/swamp-project-description.html"><img style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;" src="https://www.citizenscienceuganda.info/media/posts/12/squares_SWAMP.jpg" alt=""></a>
+<p style="clear: both;"> </p>
             ]]>
         </content>
     </entry>

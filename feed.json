@@ -41,7 +41,7 @@
         {
             "id": "https://www.citizenscienceuganda.info/harissa-researchers-2.html",
             "url": "https://www.citizenscienceuganda.info/harissa-researchers-2.html",
-            "title": "HARISSA: researchers",
+            "title": "HARISSA: Researchers",
             "summary": "Senior Researchers Junior ResearchersJulius Tumusiime - Doctoral researcher at MUSTMercy-Gloria AshepetDavid Muribu&hellip;",
             "content_html": "<p><strong>Senior Researchers</strong></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/Ronald-Twongyirwe.jpg\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/Ronald-Twongyirwe-thumbnail.jpg\" alt=\"Ronal Twongyriwe - project leader MUST\" width=\"172\" height=\"192\"></a>\n<figcaption class=\"gallery-description\">Ronal Twongyriwe - project leader MUST</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/od-photo-2015_ice.jpg\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/od-photo-2015_ice-thumbnail.jpg\" alt=\"Olivier Dewitte - Senior researcher RMCA\" width=\"768\" height=\"1029\"></a>\n<figcaption class=\"gallery-description\">Olivier Dewitte - Senior researcher RMCA</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/Francois.jpg\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/Francois-thumbnail.jpg\" alt=\"François Kervyn - Senior researcher RMCA\" width=\"173\" height=\"200\"></a>\n<figcaption class=\"gallery-description\">François Kervyn - Senior researcher RMCA</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/DSC_5886-copy.jpg\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/DSC_5886-copy-thumbnail.jpg\" alt=\"Grace Kagoro - professor Mbarara University of Science and Technology\" width=\"600\" height=\"600\"></a>\n<figcaption class=\"gallery-description\">Grace Kagoro - professor Mbarara University of Science and Technology</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"file://C:/Users/u0118402/Documents/Publii/sites/citizen-science-uganda/input/media/posts/13/gallery/Tine-Jonge-academie-2.jpg\" ><img src=\"file://C:/Users/u0118402/Documents/Publii/sites/citizen-science-uganda/input/media/posts/13/gallery/Tine-Jonge-academie-2-thumbnail.jpg\" alt=\"Tine Huyse - Senior researcher RMCA\" width=\"768\" height=\"944\"></a>\n<figcaption class=\"gallery-description\">Tine Huyse - Senior researcher RMCA</figcaption>\n</figure>\n</div>\n<p><strong>Junior Researchers</strong></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/Violet-K.jpg\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/Violet-K-thumbnail.jpg\" alt=\"Julius Tumusiime - Doctoral researcher at MUST\" width=\"768\" height=\"782\"></a>\n<figcaption class=\"gallery-description\">Julius Tumusiime - Doctoral researcher at MUST</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/Presentation2.jpg\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/Presentation2-thumbnail.jpg\" alt=\"Mercy-Gloria Ashepet\" width=\"591\" height=\"768\"></a>\n<figcaption class=\"gallery-description\">Mercy-Gloria Ashepet</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/David-Muribu.jpg\" ><img src=\"https://www.citizenscienceuganda.info/media/posts/20/gallery/David-Muribu-thumbnail.jpg\" alt=\"David Muribu - Research assistent MUST\" width=\"275\" height=\"339\"></a>\n<figcaption class=\"gallery-description\">David Muribu - Research assistent MUST</figcaption>\n</figure>\n</div>",
             "author": {
@@ -50,7 +50,7 @@
             "tags": [
             ],
             "date_published": "2020-02-17T09:08:47+01:00",
-            "date_modified": "2020-02-18T15:47:41+01:00"
+            "date_modified": "2020-02-18T15:51:17+01:00"
         },
         {
             "id": "https://www.citizenscienceuganda.info/disclaimer.html",
@@ -95,18 +95,6 @@
             "date_modified": "2020-02-17T10:16:08+01:00"
         },
         {
-            "id": "https://www.citizenscienceuganda.info/harissa-researchers.html",
-            "url": "https://www.citizenscienceuganda.info/harissa-researchers.html",
-            "title": "HARISSA: Researchers",
-            "author": {
-                "name": "CitizenScienceUganda"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-12-18T13:34:46+01:00",
-            "date_modified": "2020-02-17T09:25:56+01:00"
-        },
-        {
             "id": "https://www.citizenscienceuganda.info/swampatrap-and-harissa-official-launch.html",
             "url": "https://www.citizenscienceuganda.info/swampatrap-and-harissa-official-launch.html",
             "title": "SWAMP project workshop + ATRAP &amp; HARISSA official launch",
@@ -147,6 +135,20 @@
             ],
             "date_published": "2019-09-04T10:58:59+02:00",
             "date_modified": "2020-02-18T15:48:15+01:00"
+        },
+        {
+            "id": "https://www.citizenscienceuganda.info/projects.html",
+            "url": "https://www.citizenscienceuganda.info/projects.html",
+            "title": "PROJECTS",
+            "summary": "This website was built to highlight the joint activities related to citizen&hellip;",
+            "content_html": "<p>This website was built to highlight the joint activities related to citizen science, as foreseen in the ATRAP, HARISSA and D-SIRE projects.</p>\n<a href=\"https://www.citizenscienceuganda.info/atrap-project-description.html\"><img style=\"float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;\" src=\"https://www.citizenscienceuganda.info/media/posts/12/squares_ATRAP.jpg\" alt=\"\"></a> <a href=\"https://www.citizenscienceuganda.info/d-sire-project-description.html\"><img style=\"float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;\" src=\"https://www.citizenscienceuganda.info/media/posts/12/gallery/squares_DSIRE.jpg\" alt=\"\"></a> <a href=\"https://www.citizenscienceuganda.info/harissa-project.html\"><img style=\"float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;\" src=\"https://www.citizenscienceuganda.info/media/posts/12/squares_HARISSA.jpg\" alt=\"\"></a> <a href=\"https://www.citizenscienceuganda.info/swamp-project-description.html\"><img style=\"float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;\" src=\"https://www.citizenscienceuganda.info/media/posts/12/squares_SWAMP.jpg\" alt=\"\"></a>\n<p style=\"clear: both;\"> </p>",
+            "author": {
+                "name": "CitizenScienceUganda"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-12T16:40:43+02:00",
+            "date_modified": "2019-07-29T15:57:39+02:00"
         }
     ]
 }
