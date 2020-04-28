@@ -3,7 +3,7 @@
     <title>Citizen Science Uganda</title>
     <link href="https://www.citizenscienceuganda.info/feed.xml" rel="self" />
     <link href="https://www.citizenscienceuganda.info" />
-    <updated>2020-04-06T11:44:43+02:00</updated>
+    <updated>2020-04-28T10:01:08+02:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
@@ -51,7 +51,7 @@
         <link href="https://www.citizenscienceuganda.info/about.html"/>
         <id>https://www.citizenscienceuganda.info/about.html</id>
 
-        <updated>2020-02-19T11:40:25+01:00</updated>
+        <updated>2020-04-28T10:00:43+02:00</updated>
             <summary>
                 <![CDATA[
                     Internationally, Citizen Science is slowly developing into a field on its own,&hellip;
@@ -59,7 +59,16 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Internationally, Citizen Science is slowly developing into a field on its own, and its potential for research, policy development and sustainability is increasingly recognized⁠. It can be argued that especially in countries in the Global South where data collection is often very challenging and where this dearth of data is particularly problematic considering the sustainability challenges, Citizen Science can have the largest added value. Nonetheless, recent review studies in various fields suggest an increasing marginalization of less-developed regions with regard to the applications of Citizen Science. </p>
+                <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-146073405-1"></script>
+<script>// <![CDATA[
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146073405-1');
+// ]]></script>
+<p>Internationally, Citizen Science is slowly developing into a field on its own, and its potential for research, policy development and sustainability is increasingly recognized⁠. It can be argued that especially in countries in the Global South where data collection is often very challenging and where this dearth of data is particularly problematic considering the sustainability challenges, Citizen Science can have the largest added value. Nonetheless, recent review studies in various fields suggest an increasing marginalization of less-developed regions with regard to the applications of Citizen Science. </p>
 <p>Environmental research in central Africa, is often conducted by researchers from outside the region, and even from abroad. Data collection is therefore often organized in campaigns centered around short term, focused efforts. The trade-off of these approaches, is that dynamics over time are often missed and knowledge of local people on the terrain often left untapped. Citizen Science could allow accurate first-hand information of what is happening in the field. With this website we want to present a consortium of partners in Belgium and Uganda which groups researchers involved in citizen science in Uganda to monitor, investigate and communicate on environmental risks in Uganda. It is actually composed of several independent projects, with their own task leaders and funding. </p>
 <p class="msg msg--highlight ">These research projects build upon the VLIR-SI project "Enhancing community-based natural resources and hazard management in Rwenzori Mountains" which enabled the set-up of the <a href="The Geo-Observer Network" target="_blank" rel="noopener noreferrer">Geo-observer network</a> : a unique citizen-science driven effort to collect geo-hazard data in a remote region in Uganda. </p>
 <p><strong>D-SIRE</strong> and <strong>HARISSA</strong> build upon the geo-observer network and extend this to several districts across South West Uganda. Beyond observing, the goal of these projects is also to build upon the skills and knowledge of the geo-observers who play a pivotal role in the interface between communities and scientists. <strong>ATRAP</strong> (Action Towards Reducing Aquatic snail-born Parasitic disease) focuses on better understanding the population dynamics of vectors (fresh-water snails) transmitting parasitic diseases such as Schistosomiasis, a major public health concern in sub-Saharan Africa. Although thematically distinct from D-SIRE and HARISSA, it also builds upon the expertise with citizen scientists in the region. With ATRAP, citizens are actively involved in snail monitoring, but will also act as communicator to the wider community. Apart from effective sensibilisation and education, this ‘citizen science’ approach will allow to significantly increase the scale and resolution of snail monitoring, generating the much-anticipated ecological data to create reliable risk maps and help policy makers in targeted snail control and thus reduction of schistosomiasis risk.</p>
