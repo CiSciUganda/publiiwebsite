@@ -3,12 +3,37 @@
     <title>Citizen Science Uganda</title>
     <link href="https://www.citizenscienceuganda.info/feed.xml" rel="self" />
     <link href="https://www.citizenscienceuganda.info" />
-    <updated>2020-05-14T11:33:23+02:00</updated>
+    <updated>2020-08-03T11:58:21+02:00</updated>
     <author>
         <name>CitizenScienceUganda</name>
     </author>
     <id>https://www.citizenscienceuganda.info</id>
 
+    <entry>
+        <title>COVID-19 Training</title>
+        <author>
+            <name>CitizenScienceUganda</name>
+        </author>
+        <link href="https://www.citizenscienceuganda.info/covid-19-training.html"/>
+        <id>https://www.citizenscienceuganda.info/covid-19-training.html</id>
+
+        <updated>2020-08-03T11:58:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    The ATRAP citizen researchers received a training from Joshua Ahumuza (Uganda Red Cross)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The ATRAP citizen researchers received a training from Joshua Ahumuza (Uganda Red Cross) to help communicate on COVID-19 risks and prevention measures to their communities.</p>
+<p><em>(update july 2020)</em></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://www.citizenscienceuganda.info/media/posts/25/gallery/P1000358.JPG" ><img src="https://www.citizenscienceuganda.info/media/posts/25/gallery/P1000358-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://www.citizenscienceuganda.info/media/posts/25/gallery/P1000361.JPG" ><img src="https://www.citizenscienceuganda.info/media/posts/25/gallery/P1000361-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>CITIZEN SCIENTISTS - HARISSA</title>
         <author>
@@ -416,26 +441,6 @@
 </figure>
 </div>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Laptops, smiling faces and Rwenzori Water</title>
-        <author>
-            <name>CitizenScienceUganda</name>
-        </author>
-        <link href="https://www.citizenscienceuganda.info/laptops-smiling-faces-and-rwenzori-water.html"/>
-        <id>https://www.citizenscienceuganda.info/laptops-smiling-faces-and-rwenzori-water.html</id>
-
-        <updated>2019-10-22T11:51:57+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Laptops, smiling faces and Rwenzori Water... the ingredients for a smooth preparation of&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Laptops, smiling faces and Rwenzori Water... the ingredients for a smooth preparation of the official launch of ATRAP and HARISSA at MUST University with Casim Tolo, Ronald Twongyirwe, Tine Huyse, Viola Nyakato, Jef Brees, Olivier Dewitte and Grace Kagoro (11/09/2019) <img class="post__image" src="https://www.citizenscienceuganda.info/media/posts/14/kick-off-meeting-working-group.jpeg" alt="" width="1280" height="720">
             ]]>
         </content>
     </entry>
